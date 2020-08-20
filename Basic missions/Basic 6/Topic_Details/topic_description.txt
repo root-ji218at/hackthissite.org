@@ -1,0 +1,14 @@
+
+Level 6
+
+
+Network Security Sam has encrypted his password. The encryption system is publically available and can be accessed with this form:
+
+Please enter a string to have it encrypted.
+
+You have recovered his encrypted password. It is:
+
+0b775>:7
+
+Decrypt the password and enter it below to advance to the next level.
+
