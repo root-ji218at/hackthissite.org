@@ -1,0 +1,1 @@
+use burpsuite and intersect the cookie value "level10_authorized=yes" and forward the request
