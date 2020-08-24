@@ -1,0 +1,11 @@
+go to the website as stated in the message
+visit the "Database"(https://www.hackthissite.org/missions/realistic/5/submit.html) there you have to enter password to complete the level.
+There in the "robots.txt" file (at "https://www.hackthissite.org/missions/realistic/5/robots.txt") we get the location of two folders "lib" and "secret"
+there in the lib folder (at https://www.hackthissite.org/missions/realistic/5/secret/) we get two webpage links "admin.php" and "admin.bak.php".
+open "admin.bak.php" and there you will get the hash value to compare the password with.
+there in the lib folder (at https://www.hackthissite.org/missions/realistic/5/lib/) we get a hash module as "hash" download it.
+open he file and yu will find that the hash is a "md4" hash.
+make a file and paste the hash.
+decrypt the hash from "admin.bak.php" with john as (sudo john --format=raw-md4 hash_file)
+the password that is to be decrypted is the password.
+continue with the password in "https://www.hackthissite.org/missions/realistic/5/submit.html" and you will get a confirmation message.
