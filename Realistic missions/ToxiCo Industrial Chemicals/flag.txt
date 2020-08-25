@@ -1,0 +1,5 @@
+visit "https://www.hackthissite.org/missions/realistic/6/index.html" as stated in the message.
+you will get an encrypted message using XECryption algorithm.
+visit "http://telmo.pt/xecryption/" to decrypt the whole message.
+After decrypting the message send the message to "ToxiCo_Watch" using "HTS Message Centre"
+Now you have completed the mission.

@@ -1,0 +1,7 @@
+From: ToxiCo_Watch
+
+Message: Hello esteemed hacker, I hope you have some decent cryptography skills. I have some text I need decrypted.
+I work for this company called ToxiCo Industrial Chemicals, which has recently come under fire because of the toxic chemicals we are dumping into the river nearby. Ecological inspectors have reported no problems, but it is widely speculated that they were paid off by ToxiCo management because the water pollution near the ToxiCo factory has always been a serious and widely publicized issue.
+I have done some packet sniffing on my network and I have recovered this email that was sent from the CEO of the company to Chief Ecological Inspector Samuel Smith. However, it is encrypted and I cannot seem to decode it using any of my basic decryption tools. I have narrowed it down to the algorithm used to encrypt it, but it is beyond my scope. I was hoping you can take a look at it.
+Please check it out,
+more details are on the page. If you can unscramble it and reply to this message with the original text, it would be much appreciated. Thank you.
