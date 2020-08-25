@@ -1,0 +1,13 @@
+visit the home page at (https://www.hackthissite.org/missions/realistic/7/) as stated by the message.
+there you will find three links.
+visit one of them (https://www.hackthissite.org/missions/realistic/7/showimages.php?file=patriot.txt)
+there view the source of the webpage by using "Ctrl+u" and there you will find that there is an "images" folder
+visit the "images" folder .
+There you will find "admin" directory. The admin directory is perhaps protected.
+So, there is one possiblity that there is ".htpasswd" file in "admin" directory.
+So in the link (https://www.hackthissite.org/missions/realistic/7/showimages.php?file=) we have seen that it blindly shows the file of there is any in any location.
+So let us visit (https://www.hackthissite.org/missions/realistic/7/showimages.php?file=images/admin/.htaccess) .
+There you will not find anything. But after viewing the source of the webpage you will find (administrator:$1$AAODv...$gXPqGkIO3Cu6dnclE/sok1).
+This is the login Credintials.
+Decrypt it with john as (sudo john htpasswd)
+within few seconds you will get the login credentials as "administrator:shadow"

@@ -1,0 +1,6 @@
+https://www.hackthissite.org/missions/realistic/7/
+https://www.hackthissite.org/missions/realistic/7/showimages.php?file=patriot.txt
+https://www.hackthissite.org/missions/realistic/7/images
+https://www.hackthissite.org/missions/realistic/7/images/admin
+https://www.hackthissite.org/missions/realistic/7/showimages.php?file=images/admin/.htpasswd
+view-source:https://www.hackthissite.org/missions/realistic/7/showimages.php?file=images/admin/.htpasswd
