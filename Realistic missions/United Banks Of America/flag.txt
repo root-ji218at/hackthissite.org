@@ -1,0 +1,22 @@
+visit the webpage that is given in the message.
+then search for Garry in "User Info".(in the link "https://www.hackthissite.org/missions/realistic/8/search.php")
+Here is a basic sql injection (' or 'a'='a) hat will work.
+Then you will find the list of all the users.
+There find the name "Gary"
+You will find that there is an account which is (GaryWilliamHunter : -- $$$$$ --)
+This is the account cred of Garry.
+Then Register yourself using "Register" in the page (https://www.hackthissite.org/missions/realistic/8/register.php)
+Then you will get your account details after login to your account (https://www.hackthissite.org/missions/realistic/8/login1.php).
+open burpsuite and redirect the request through it.
+fillup the fields (money to give-> dropCash & amount to transfer -> 10000000)
+click "Move Money To A Different Account" and tamper the data in burpsuite.
+remove our username and password and use the Username & password of Gary.
+and send the request.
+Here you have completed the first part of the mission.
+
+After completing the first part you have to log back in using our own credintials that you have registered.
+then click on "Clear Files In Personal Folder" and redirect it through BurpSuite.
+then change the value of "dir" in data to "logFiles" as said in the message.
+
+This is how the missions are completed
+

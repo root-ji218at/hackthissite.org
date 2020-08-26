@@ -1,0 +1,8 @@
+
+From: DarkOneWithANeed
+
+Message: Hey man, you gotta help me out, Gary Hunter, one of the richest men in America, has just deposited $10,000,000 into his bank account at the United Banks Of America and plans to donate that money to a campaign to hunt down and lock up all hackers. Now I've tried hacking their site but I'm just not good enough. That's why I need your help, Here's a list of your objectives:
+1. Find the account of Gary Hunter (I don't know his account name).
+2. Move the $10,000,000 into the account dropCash.
+3. Clear The Logs, They're held in the folder 'logFiles'.
+I really hope you can do this, because if you can't we're all screwed
