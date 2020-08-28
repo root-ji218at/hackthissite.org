@@ -1,0 +1,11 @@
+Forensic 3
+
+
+The local police just arrested a suspect believed to be the notorious "PapaSmurphey", an online pizza trader. Any violation of the federal pizza law is a serious crime, and convicted offenders face severe statutory penalties. For example, a first time offender convicted of producing pizza under 18 U.S.J. 2251 faces fines and a statutory minimum of 15 years to 30 years maximum in prison. A flash drive was recovered from the scene and was copied; poorly. As best as you can, examine the contents for any incriminating evidence on the suspect.
+
+*This challenge has several steps. The completion password will look like this: HTS{the_answer}*
+
+-File Download-
+
+All credit (and complaints) for the mission go to limdis.
+
